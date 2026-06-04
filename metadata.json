@@ -1,0 +1,59 @@
+{
+  "siteId": "wood-warm-style",
+  "generatedAt": "2026-06-04T11:35:26.528889",
+  "categories": [
+    "beginner-wood-warm-style",
+    "advanced-wood-warm-style",
+    "tips-wood-warm-style",
+    "history-wood-warm-style",
+    "trending-wood-warm-style",
+    "tutorials-wood-warm-style"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-wood-warm-style",
+      "category_name": "Beginner Wood Warm Style"
+    },
+    {
+      "category_slug": "advanced-wood-warm-style",
+      "category_name": "Advanced Wood Warm Style"
+    },
+    {
+      "category_slug": "tips-wood-warm-style",
+      "category_name": "Wood Warm Style Tips"
+    },
+    {
+      "category_slug": "history-wood-warm-style",
+      "category_name": "Wood Warm Style History"
+    },
+    {
+      "category_slug": "trending-wood-warm-style",
+      "category_name": "Trending Wood Warm Style"
+    },
+    {
+      "category_slug": "tutorials-wood-warm-style",
+      "category_name": "Wood Warm Style Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "wood-warm-style",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Wood Warm Style Central",
+    "articles_per_row": 1
+  }
+}

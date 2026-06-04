@@ -1,0 +1,88 @@
+# Validation Report - wood-warm-style
+
+Generated: 2026-06-04T11:35:26.528606
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Wood Warm Style
+- ✓ Article word count OK: Beginner Wood Warm Style: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Wood Warm Style
+- ✓ Article word count OK: Beginner Wood Warm Style Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Wood Warm Style
+- ✓ Article word count OK: Beginner Wood Warm Style in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Wood Warm Style
+- ✓ Article word count OK: Common Mistakes in Beginner Wood Warm Style
+- ✓ Article word count OK: Beginner Wood Warm Style for Beginners
+- ✓ Article word count OK: Advanced Beginner Wood Warm Style Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Wood Warm Style
+- ✓ Article word count OK: Advanced Wood Warm Style: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Wood Warm Style
+- ✓ Article word count OK: Advanced Wood Warm Style Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Wood Warm Style
+- ✓ Article word count OK: Advanced Wood Warm Style in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Wood Warm Style
+- ✓ Article word count OK: Common Mistakes in Advanced Wood Warm Style
+- ✓ Article word count OK: Advanced Wood Warm Style for Beginners
+- ✓ Article word count OK: Advanced Advanced Wood Warm Style Techniques
+- ✓ Article word count OK: The Ultimate Guide to Wood Warm Style Tips
+- ✓ Article word count OK: Wood Warm Style Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Wood Warm Style Tips
+- ✓ Article word count OK: Wood Warm Style Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Wood Warm Style Tips
+- ✓ Article word count OK: Wood Warm Style Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Wood Warm Style Tips
+- ✓ Article word count OK: Common Mistakes in Wood Warm Style Tips
+- ✓ Article word count OK: Wood Warm Style Tips for Beginners
+- ✓ Article word count OK: Advanced Wood Warm Style Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Wood Warm Style History
+- ✓ Article word count OK: Wood Warm Style History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Wood Warm Style History
+- ✓ Article word count OK: Wood Warm Style History Tips and Best Practices
+- ✓ Article word count OK: The History of Wood Warm Style History
+- ✓ Article word count OK: Wood Warm Style History in 2026: Current Trends
+- ✓ Article word count OK: Future of Wood Warm Style History
+- ✓ Article word count OK: Common Mistakes in Wood Warm Style History
+- ✓ Article word count OK: Wood Warm Style History for Beginners
+- ✓ Article word count OK: Advanced Wood Warm Style History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Wood Warm Style
+- ✓ Article word count OK: Trending Wood Warm Style: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Wood Warm Style
+- ✓ Article word count OK: Trending Wood Warm Style Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Wood Warm Style
+- ✓ Article word count OK: Trending Wood Warm Style in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Wood Warm Style
+- ✓ Article word count OK: Common Mistakes in Trending Wood Warm Style
+- ✓ Article word count OK: Trending Wood Warm Style for Beginners
+- ✓ Article word count OK: Advanced Trending Wood Warm Style Techniques
+- ✓ Article word count OK: The Ultimate Guide to Wood Warm Style Tutorials
+- ✓ Article word count OK: Wood Warm Style Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Wood Warm Style Tutorials
+- ✓ Article word count OK: Wood Warm Style Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Wood Warm Style Tutorials
+- ✓ Article word count OK: Wood Warm Style Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Wood Warm Style Tutorials
+- ✓ Article word count OK: Common Mistakes in Wood Warm Style Tutorials
+- ✓ Article word count OK: Wood Warm Style Tutorials for Beginners
+- ✓ Article word count OK: Advanced Wood Warm Style Tutorials Techniques
+- ✓ Ad configuration validated
